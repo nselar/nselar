@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nselar" alt="nselar" /></a> </p>
 
-- 🌱 I’m currently learning **Back-end developing (Typescript)**
+- 🌱 I’m currently learning **Front-end developing (HTML, CSS and Javascript)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
