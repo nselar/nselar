@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nselar" alt="nselar" /></a> </p>
 
-- 🌱 I’m currently learning **Microsoft .NET**
+- 🌱 I’m currently learning **PHP**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
