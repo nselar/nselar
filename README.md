@@ -83,5 +83,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nselar&theme=darkhub&no-frame=true&row=1" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nselar&theme=darkhub&no-frame=true&column=7" alt="Trophies" />
 </p>
