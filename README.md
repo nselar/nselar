@@ -80,5 +80,5 @@
 ---
 
 <p align="center">
-  <img src="https://trophy.benkou.dev/?username=nselar&theme=onedark&no-frame=true&column=7" alt="Trophies" />
+  <img src="https://trophy.benkou.dev/?username=nselar&theme=dark&no-frame=true" alt="Trophies" />
 </p>
