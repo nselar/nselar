@@ -80,5 +80,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nselar&theme=darkhub&no-frame=true&column=7" alt="Trophies" />
+  <img src="[![trophy]([https://github-profile-trophy.vercel.app/?](https://github-profile-trophy-reiyua-mirror.vercel.app/?)username=nselar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" alt="Trophies" />
 </p>
