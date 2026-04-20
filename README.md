@@ -10,9 +10,6 @@
   <a href="https://linkedin.com/in/nicolas-sela-ramos">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/nicosela">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
 </p>
 
 ---
